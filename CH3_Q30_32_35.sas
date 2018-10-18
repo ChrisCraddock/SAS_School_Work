@@ -95,7 +95,7 @@ TITLE 'SAS CONFERENCE';
 RUN;
 
 *********************************************************************
-*Question 30
+*Question 35
 *A);
 DATA IceCream;
 INFILE '/folders/myfolders/ChapterFiles/3/BenAndJerrys.dat' DLM=',' DSD ENCODING='wlatin1' TRUNCOVER;
